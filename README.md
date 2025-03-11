@@ -81,9 +81,7 @@ cv2.destroyAllWindows()
 
 ## **📊 Model Performance & Results**  
 
-✅ **mAP (Mean Average Precision):** **92.4%**  
-✅ **Precision:** **94.1%**  
-✅ **Recall:** **89.8%**  
+![result](https://github.com/83Gh0st/InfernoGuard/blob/main/predictions/Model/results.png?raw=true)
 
 📈 **Training Metrics (Loss, Accuracy, Confusion Matrix) are available in the `results/` folder.**  
 
