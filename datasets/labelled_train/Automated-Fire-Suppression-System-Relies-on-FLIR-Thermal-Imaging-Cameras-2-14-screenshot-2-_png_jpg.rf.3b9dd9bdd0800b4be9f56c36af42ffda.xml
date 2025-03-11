@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Automated-Fire-Suppression-System-Relies-on-FLIR-Thermal-Imaging-Cameras-2-14-screenshot-2-_png_jpg.rf.3b9dd9bdd0800b4be9f56c36af42ffda.jpg</filename>
+	<path>Automated-Fire-Suppression-System-Relies-on-FLIR-Thermal-Imaging-Cameras-2-14-screenshot-2-_png_jpg.rf.3b9dd9bdd0800b4be9f56c36af42ffda.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>340</xmin>
+			<xmax>381</xmax>
+			<ymin>230</ymin>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

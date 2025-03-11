@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Dahua-Thermal-IP-Camera-Flame_Fire-Detection-0-44-screenshot-7-_png_jpg.rf.defa5c63fafa8e6176f31397ad55912a.jpg</filename>
+	<path>Dahua-Thermal-IP-Camera-Flame_Fire-Detection-0-44-screenshot-7-_png_jpg.rf.defa5c63fafa8e6176f31397ad55912a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>358</xmin>
+			<xmax>394</xmax>
+			<ymin>264</ymin>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

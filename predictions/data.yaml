@@ -1,0 +1,10 @@
+train: /content/drive/MyDrive/thermal/yolov5/datasets/train
+val: /content/drive/MyDrive/thermal/yolov5/datasets/train
+test: /content/drive/MyDrive/thermal/yolov5/datasets/test
+
+nc: 1  # Update this to match the total number of classes
+
+names: [
+      'fire'
+]
+
