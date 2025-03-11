@@ -1,4 +1,5 @@
 # InfernoGuard | AI-Powered Fire Detection System 🔥🚒  
+![prediction result](https://github.com/83Gh0st/InfernoGuard/blob/main/predictions/Model/val_batch2_labels.jpg?raw=true)
 
 ## **About**  
 **InfernoGuard** is an **AI-driven fire detection system** built using **YOLOv5**, optimized for real-time **thermal camera-based fire detection**. It utilizes **ONNX, TensorFlow Lite (TFLite), and TensorFlow.js (TF.js)** for seamless deployment across **edge devices, cloud servers, and web applications**.  
