@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Fire-Assessment-w_-FLIR-Thermal-1-30-screenshot-1-_png_jpg.rf.6984e71dc536b65f08ebc3eebec90e09.jpg</filename>
+	<path>Fire-Assessment-w_-FLIR-Thermal-1-30-screenshot-1-_png_jpg.rf.6984e71dc536b65f08ebc3eebec90e09.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>276</xmin>
+			<xmax>368</xmax>
+			<ymin>161</ymin>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

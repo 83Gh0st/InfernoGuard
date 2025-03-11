@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Terrace-Mountain-Forest-Fire-Growth-August-1-2-33-screenshot_png_jpg.rf.d12bfadd24534c9f6c58d354ee1c3fac.jpg</filename>
+	<path>Terrace-Mountain-Forest-Fire-Growth-August-1-2-33-screenshot_png_jpg.rf.d12bfadd24534c9f6c58d354ee1c3fac.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>619</xmax>
+			<ymin>197</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

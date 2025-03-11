@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>The-Proper-Operation-of-the-Thermal-Imaging-Camera-14-37-screenshot_png_jpg.rf.2c504c25a32d108c6f00af2f9d65b6c6.jpg</filename>
+	<path>The-Proper-Operation-of-the-Thermal-Imaging-Camera-14-37-screenshot_png_jpg.rf.2c504c25a32d108c6f00af2f9d65b6c6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>192</xmin>
+			<xmax>384</xmax>
+			<ymin>258</ymin>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

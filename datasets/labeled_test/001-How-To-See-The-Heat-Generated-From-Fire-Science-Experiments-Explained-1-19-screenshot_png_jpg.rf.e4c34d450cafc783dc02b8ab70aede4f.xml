@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>001-How-To-See-The-Heat-Generated-From-Fire-Science-Experiments-Explained-1-19-screenshot_png_jpg.rf.e4c34d450cafc783dc02b8ab70aede4f.jpg</filename>
+	<path>001-How-To-See-The-Heat-Generated-From-Fire-Science-Experiments-Explained-1-19-screenshot_png_jpg.rf.e4c34d450cafc783dc02b8ab70aede4f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>108</xmin>
+			<xmax>556</xmax>
+			<ymin>498</ymin>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>
